@@ -1,6 +1,7 @@
 # IMDb_SQL_POWER_BI_Analysis_project
 
-This project is based on IMDb movies and how the movie works , how the actors perform or how their film works . I have used Mysql and PowerBI for data analysis and data visualization .
+This project is based on IMDb movies and how the movie works , how the actors perform or how their film works . 
+I have used Mysql and PowerBI for data analysis and data visualization .
 
 <img width="1917" height="994" alt="Screenshot_imdb_power_BI" src="https://github.com/user-attachments/assets/c27748cb-c426-4ac1-b9e7-d90f4cce26d4" />
 
@@ -23,3 +24,15 @@ to make it more useable and easy .
 VIEWS,TEMPORARY TABLES,PROCEDURES,INNER JOINS AND CTE'S ARE USED ALONG WITH GROUP BY,ORDER BY AND
 OTHER MATHEMATICAL OPERATORS .
 
+Power BI Project - 
+
+After doing the basic data cleaning and some data analysis i have directly connected the data with Power BI .
+Power BI has direct access to MYSQL .
+
+In Power BI i have created few new tables . I have also created one table table from the existing
+date column . Several DAX functions , few Measures and few Calculated Measures have been used to get the most important 
+insights of the data .
+
+Then in the report i have created two different dashboards . one is to showcase the actor-actress details and one is to 
+showcase the movie details . Please have a look on my report to see how we can change the raw data into a very
+interesting visualization .
